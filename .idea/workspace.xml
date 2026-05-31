@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17680452-879d-42bb-8763-f283803605b0" name="Changes" comment="creating brunches">
-      <change afterPath="$PROJECT_DIR$/data/user_setting.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17680452-879d-42bb-8763-f283803605b0" name="Changes" comment="creating tests1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,12 +85,30 @@
       <option name="project" value="LOCAL" />
       <updated>1780220803551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creating tests">
+      <option name="closed" value="true" />
+      <created>1780224383705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780224383705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creating tests1">
+      <option name="closed" value="true" />
+      <created>1780224402766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780224402766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating files" />
     <MESSAGE value="creating brunches" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating brunches" />
+    <MESSAGE value="creating tests" />
+    <MESSAGE value="creating tests1" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating tests1" />
   </component>
 </project>
