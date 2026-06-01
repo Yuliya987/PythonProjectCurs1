@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17680452-879d-42bb-8763-f283803605b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProjectCurs1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="17680452-879d-42bb-8763-f283803605b0" name="Changes" comment="refactor4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,23 +18,42 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yuliya987&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yuliya987/PythonProjectCurs1.git&quot;,
+    &quot;accountId&quot;: &quot;2977fb25-112a-44be-8ec1-18dc0bbef6c9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3EHBlWpNUf4oWTMGGOigtgrPNdf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;task1&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +69,82 @@
       <option name="presentableId" value="Default" />
       <updated>1779825766129</updated>
     </task>
+    <task id="LOCAL-00001" summary="creating files">
+      <option name="closed" value="true" />
+      <created>1779829356169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779829356169</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creating brunches">
+      <option name="closed" value="true" />
+      <created>1780220803551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780220803551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="creating tests">
+      <option name="closed" value="true" />
+      <created>1780224383705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780224383705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="creating tests1">
+      <option name="closed" value="true" />
+      <created>1780224402766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780224402766</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creating tests2">
+      <option name="closed" value="true" />
+      <created>1780224730904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780224730904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor1">
+      <option name="closed" value="true" />
+      <created>1780224988509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780224988509</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor2">
+      <option name="closed" value="true" />
+      <created>1780229859896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780229859897</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor3">
+      <option name="closed" value="true" />
+      <created>1780230335032</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780230335032</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creating files" />
+    <MESSAGE value="creating brunches" />
+    <MESSAGE value="creating tests" />
+    <MESSAGE value="creating tests1" />
+    <MESSAGE value="creating tests2" />
+    <MESSAGE value="refactor1" />
+    <MESSAGE value="refactor2" />
+    <MESSAGE value="refactor3" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor3" />
   </component>
 </project>
