@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17680452-879d-42bb-8763-f283803605b0" name="Changes" comment="refactor2" />
+    <list default="true" id="17680452-879d-42bb-8763-f283803605b0" name="Changes" comment="refactor4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780229859897</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactor3">
+      <option name="closed" value="true" />
+      <created>1780230335032</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780230335032</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -136,6 +144,7 @@
     <MESSAGE value="creating tests2" />
     <MESSAGE value="refactor1" />
     <MESSAGE value="refactor2" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor2" />
+    <MESSAGE value="refactor3" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor3" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 
 Установка:
 Клонируйте репозиторий:
-git clone https://github.com/Yuliya987/Proj_curs1
+git clone https://github.com/Yuliya987/PythonProjectCurs1
 Установите зависимости:
 pip install -r requirements.txt
 Использование:
